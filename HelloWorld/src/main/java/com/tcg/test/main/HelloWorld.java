@@ -7,6 +7,7 @@ public class HelloWorld {
 		// Making second Commit
 System.out.println("hello...");
 System.out.println("Testing Github Maven Jenkins Integration");
+System.out.println("Testing Github Maven Jenkins Integration 2nd commit");
 
 
 	}
