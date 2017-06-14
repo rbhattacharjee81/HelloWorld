@@ -8,6 +8,7 @@ public class HelloWorld {
 System.out.println("hello...");
 System.out.println("Testing Github Maven Jenkins Integration");
 System.out.println("Testing Github Maven Jenkins Integration 2nd commit");
+System.out.println("Testing Github Maven Jenkins Integration 3rd commit");
 
 
 	}
